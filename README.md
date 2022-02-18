@@ -5,15 +5,21 @@
 
 ### 2. Results:
 
-* June temperatures are likely to remain above 70 degrees year over year with an average of ~75 degrees and standard deviation of ~3.2.
+* Any user will be able to utilize the fields below to shrink the data table to a more condensed version. 
 
-    ![june](https://github.com/maldonado91/Surfs-Up2/blob/main/Resources/june_stats.PNG) 
-
-* December also has an average temperature in the 70's but there is a small risk when looking at some of the lower temperatures of 56 degrees.
-
-    ![december](https://github.com/maldonado91/Surfs-Up2/blob/main/Resources/december_stats.PNG)
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG) 
     
-* Overall the temperatures are similar despite the December cold season. Expectations are the temperature will reamin in the 70's no matter if we are in the summer or heading to the winter. 
+* Here is an example if we use the filters: 
+
+    * Date: 1/1/2010
+    * City: bonita
+    * State: ca
+    * Country: us
+    * Shape: light
+
+* We get back one result 
+
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image_example.PNG) 
  
 ### 3. Summary:
 #### The data shows we can expect fairly decent temperture year round which provides a bit of confidence in the business, however, I belive looking at the precipitation data would be nice as well since people tend to stay in on rainy days.
