@@ -1,7 +1,7 @@
 # UFO's
 
 ### 1. Overview of Project:
-#### We are building a web page that will use filters to slice and dice UFO data to the end users liking. A table will then be displayed based on search criteria. 
+#### We are building a web page that will use filters to slice and dice UFO data to the end users liking. A table will then be displayed based on search criteria for in-depth analysis on UFO sightings. 
 
 ### 2. Results:
 
